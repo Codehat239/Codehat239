@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Blankson Richmond!
 
 Welcome to my GitHub profile! I'm a **Software Developer** with a passion for building robust and scalable applications using modern technologies. My expertise spans across **Flutter**, **React.js**, and **Node.js**, and I'm currently diving into the fascinating world of **Blockchain Development**.
 
@@ -32,12 +32,12 @@ Welcome to my GitHub profile! I'm a **Software Developer** with a passion for bu
 ## 📖 My Goals
 1. Master blockchain development and integrate it into real-world projects.
 2. Build applications that solve unique problems and empower communities.
-3. Share my knowledge through LinkedIn posts and collaborations.
+3. Share my knowledge through Youtube, LinkedIn posts, collaborations and any other social media platforms available.
 
 ---
 
 ## 🌍 Where to Find Me
-- **LinkedIn**: [Richmond Blankson](https://www.linkedin.com/in/richmond-blankson-558452111/)
+- **LinkedIn**: Richmond Blankson https://www.linkedin.com/in/richmond-blankson-558452111/
 - **GitHub**: You're already here! 😉
 
 ---
